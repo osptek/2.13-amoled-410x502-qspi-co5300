@@ -1,4 +1,4 @@
-# 2.13" 410×502 QSPI module (CO5300) — documentation & samples
+# 2.13" 410×502 AMOLED QSPI module (CO5300) — documentation & samples
 
 **简体中文：** [`README.md`](README.md)
 
@@ -10,10 +10,10 @@
 
 | Item | Description |
 |:--|:--|
-| Module | 2.13-inch panel, **410×502** resolution |
+| Module | 2.13-inch **AMOLED** panel, **410×502** resolution |
 | Interface | **QSPI** |
 | Driver IC | **CO5300** |
-| Spec ID | **`213-410x502-qspi-co5300`** is the common product designation in documentation |
+| Spec ID | **`2.13-amoled-410x502-qspi-co5300`** is the common product designation in documentation |
 
 ---
 
