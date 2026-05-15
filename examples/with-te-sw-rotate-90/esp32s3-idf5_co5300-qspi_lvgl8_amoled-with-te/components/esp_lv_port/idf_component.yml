@@ -1,0 +1,6 @@
+dependencies:
+  idf: ">=4.4"
+
+  lvgl/lvgl:
+    version: "^8"
+    public: true
