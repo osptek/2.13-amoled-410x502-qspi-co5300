@@ -1,10 +1,10 @@
-# 213-410x502-QSPI-CO5300
+# 2.13" 410×502 QSPI module (CO5300) — documentation & samples
 
 **简体中文：** [`README.md`](README.md)
 
 ---
 
-> This repository provides **ESP-IDF** sample projects for this module, together with datasheets, specifications, and interface / bring-up documentation for selection reference and integration.
+> This repository provides **sample projects** for this module, together with datasheets, specifications, and interface / bring-up documentation for selection reference and integration.
 
 ## Product overview
 
@@ -24,7 +24,7 @@
 | Path | Contents |
 |:--|:--|
 | `docs/` | Datasheets, specifications, interface and initialization documentation |
-| `examples/` | **ESP-IDF** sample projects grouped by feature |
+| `examples/` | **Sample projects** grouped by feature |
 
 ### `examples/` layout
 
