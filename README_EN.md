@@ -47,6 +47,7 @@ Repo id: `2.13-amoled-410x502-qspi-co5300`
 <p align="center"><img alt="AM213Q410502LK" src="./images/AM213Q410502LK.png" width="320" /></p>
 
 **Notes:** With touch (CST820).
+
 ---
 
 ## How to Switch Branches
