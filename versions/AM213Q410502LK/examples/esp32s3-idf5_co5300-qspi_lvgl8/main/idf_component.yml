@@ -1,0 +1,11 @@
+## IDF Component Manager Manifest File
+dependencies:
+  ## Required IDF version
+  idf:
+    version: '>=4.1.0'
+  lvgl/lvgl:
+    version: 8.4.*
+    public: true
+  espressif/esp_lcd_co5300:
+    version: 2.0.*
+    public: true
