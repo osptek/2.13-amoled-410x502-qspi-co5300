@@ -79,6 +79,7 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **QSPI** 接口彩色显示模组�
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（AM213Q410502LK） | [`docs/AM_213_Q410502_LK_b82450b641.pdf`](./docs/AM_213_Q410502_LK_b82450b641.pdf) |
+| 外形图（DWG） | [`docs/AM213Q410502LK.dwg`](./docs/AM213Q410502LK.dwg) |
 | 驱动 IC 数据手册（CO5300） | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | 触摸 IC 数据手册（CST820） | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | 初始化序列（文本） | [`docs/GVO2.06_410x502_CO5300_AM213Q410502LK_QSPI 简码.txt`](./docs/GVO2.06_410x502_CO5300_AM213Q410502LK_QSPI%20%E7%AE%80%E7%A0%81.txt) |

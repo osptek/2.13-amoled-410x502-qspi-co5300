@@ -79,6 +79,7 @@ Current module version: **AM213Q410502LK**. Electrical and mechanical details fo
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet (AM213Q410502LK) | [`docs/AM_213_Q410502_LK_b82450b641.pdf`](./docs/AM_213_Q410502_LK_b82450b641.pdf) |
+| Outline drawing (DWG) | [`docs/AM213Q410502LK.dwg`](./docs/AM213Q410502LK.dwg) |
 | Driver IC datasheet (CO5300) | [`docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf`](./docs/CO_5300_Datasheet_V0_00_20230328_07edb82936.pdf) |
 | Touch IC datasheet (CST820) | [`docs/DS_CST_820_V1_2_e0543732ca.pdf`](./docs/DS_CST_820_V1_2_e0543732ca.pdf) |
 | Init sequence (text) | [`docs/GVO2.06_410x502_CO5300_AM213Q410502LK_QSPI 简码.txt`](./docs/GVO2.06_410x502_CO5300_AM213Q410502LK_QSPI%20%E7%AE%80%E7%A0%81.txt) |
